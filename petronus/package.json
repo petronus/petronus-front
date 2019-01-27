@@ -14,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "postbuild": "mv build /home/pets/petronus-backend/hack_the_pet/template"
+    "postbuild": "mv build /home/pets/petronus-backend/hack_the_pet/Users/templates/Users"
   },
   "eslintConfig": {
     "extends": "react-app"
